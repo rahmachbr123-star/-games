@@ -36,3 +36,18 @@ Ce projet est une application graphique réalisée avec **Python** et **Tkinter*
 - 🧩 Les jeux sont organisés sous forme de **frames Tkinter**
 - 🎨 Boutons stylés avec survol ("hover")
 
+---
+
+- ## 💡 Améliorations possibles
+- Ajouter sauvegardes des parties  
+- Ajouter sons / animations  
+- Créer des niveaux de difficulté
+  
+--- 
+
+- ## 💔 Les problems que on a eu
+- pygame ne fonctionnait pas avec la version de Python que nous avions
+- Les règles du jeu d’échecs ne s’appliquaient pas correctement, c’était le chaos
+- Le jeu du morpion (tic-tac-toe) buggeait parfois
+- Impossible d’ajouter des effets sonores et des images
+
